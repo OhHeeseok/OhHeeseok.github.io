@@ -3,29 +3,29 @@ layout: page
 title: Intro
 ---
 
-Johnny Coder
+Heeseok Oh
 ============
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
-
-Education
+Affiliation
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+Sept. 2017 - Present
+:   **Senior Researcher**; ETRI (Electronics & communications Research Institute)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+March 2017 - Aug. 2017
+:   **Senior Engineer**; Samsung Electronics DMC Center
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+March 2012 - Feb. 2017
+:   **Ph.D.**; Yonsei Universiy, EE (Supervised by Prof. Sanghoon Lee)
 
-    *Minor: Awesomeology*
+    *Thesis title: Deep visual discomfort predictor for stereoscopic 3D images*
+
+March 2010 - Feb. 2012
+:   **M.S.**; Yonsei Universiy, EE (Supervised by Prof. Sanghoon Lee)
+
+March 2003 - Feb. 2010
+:   **B.S.**; Yonsei Universiy, EE
+
 
 Experience
 ----------
