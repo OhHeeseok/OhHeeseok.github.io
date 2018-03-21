@@ -10,7 +10,7 @@ Heeseok Oh
 Ph.D. in Electrical and Electronic Engineering<br>
 Senior Researcher @[ETRI](http://etri.re.kr)<br>
 <img src="http://ohheeseok.github.io/assets/img/DSC01682_h.jpg" alt="Drawing" style="
-      height: 240px;
+      width: 1024px;
       border: 5px solid #ccc;
       border-radius: 10px;
       -moz-border-radius: 10px;
@@ -50,8 +50,9 @@ Affiliation
 ***
 
 ## Publications
+### SCI Journals
 
-- **Blind deep S3D image quality evaluation via local to global feature aggregation**<br>
+- [**Blind deep S3D image quality evaluation via local to global feature aggregation**](http://ieeexplore.ieee.org/abstract/document/7973187/)<br>
 **Heeseok Oh**, Sewoong Ahn, Jongyoo Kim and Sanghoon Lee<br>
 *IEEE Transactions on Image Processing*<br>
   <details><summary>abs</summary>abstract here</details>
@@ -74,6 +75,52 @@ Affiliation
 - **Cooperative content and radio resource allocation for visual information maximization in a digital signage scenario**<br>
 **Heeseok Oh**, Hojae Lee, Inwoong Lee and Sanghoon Lee<br>
 *Digital Signal Processing*<br>
+  <details><summary>abs</summary>abstract here</details>
+
+- **3D visual discomfort predictor: analysis of disparity and neural activity statistics**<br>
+Jincheol Park, **Heeseok Oh**, Sanghoon Lee and Alan C. Bovik<br>
+*IEEE Transactions on Image Processing*<br>
+  <details><summary>abs</summary>abstract here</details>
+
+- **Visually weighted reconstruction of compressive sensing MRI**<br>
+**Heeseok Oh** and Sanghoon Lee<br>
+*Magnetic Resonance Imaging*<br>
+  <details><summary>abs</summary>abstract here</details>
+
+- **Visually weighted compressive sensing: measurement and reconstruction**<br>
+Hyungkeuk Lee, **Heeseok Oh**, Sanghoon Lee and Alan C. Bovik<br>
+*IEEE Transactions on Image Processing*<br>
+  <details><summary>abs</summary>abstract here</details>
+
+### Conferences
+- **No-reference perceptual sharpness assessment for ultra-high-definition images**<br>
+Woojae Kim, Haksub Kim, **Heeseok Oh**, Jongyoo Kim and Sanghoon Lee<br>
+*IEEE International Conference on Image Processing (ICIP) 2016*<br>
+  <details><summary>abs</summary>abstract here</details>
+
+- **Human gait prediction method using Microsoft Kinect**<br>
+Junghwan Kim, Doyoung Kim, Inwoong Lee, Jongyoo Kim, **Heeseok Oh** and Sanghoon Lee<br>
+*International Workshop on Advance Image Technology (IWAIT) 2016*<br>
+  <details><summary>abs</summary>abstract here</details>
+
+- **3D visual discomfort predictor based on neural activity statistics**<br>
+**Heeseok Oh**, Jongyoo Kim, Sanghoon Lee and Alan C. Bovik<br>
+*IEEE International Conference on Image Processing (ICIP) 2015*<br>
+  <details><summary>abs</summary>abstract here</details>
+
+- **Implementation of human action recognition system using multiple Kinect sensors**<br>
+Beom Kwon, Doyoung Kim, Junghwan Kim, Inwoong Lee, Jongyoo Kim, **Heeseok Oh**, Haksub Kim and Sanghoon<br>
+*Advances in Multimedia Information Processing (PCM) 2015*<br>
+  <details><summary>abs</summary>abstract here</details>
+
+- **Prediction of visual fatigue from spatiotemporal characteristics in stereoscopic video**<br>
+**Heeseok Oh** and Sanghoon<br>
+*3DTV-Conference 2012*<br>
+  <details><summary>abs</summary>abstract here</details>
+
+- **A new block compressive sensing to control the number of measurements**<br>
+Hyungkeuk Lee, **Heeseok Oh** and Sanghoon<br>
+*IEEE International Conference on Image Processing (ICIP) 2011*<br>
   <details><summary>abs</summary>abstract here</details>
 
 ***
