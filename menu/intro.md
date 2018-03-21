@@ -14,7 +14,7 @@ Heeseok Oh
       -moz-border-radius: 10px;
       -khtml-border-radius: 10px;
       -webkit-border-radius: 10px;
-      "/>
+      "/><br>
 Ph.D. in Electrical and Electronic Engineering<br>
 Senior Researcher @[ETRI](http://etri.re.kr)<br>
 > Tel.: +82-42-860-5501<br>
@@ -28,19 +28,19 @@ Affiliation
 
 Sept. 2017 - Present
 :   **Senior Researcher** 
-:	[ETRI (Electronics & communications Research Institute)](http://etri.re.kr)
-<br>
+:	[ETRI (Electronics & communications Research Institute)](http://etri.re.kr)<br>
+
 March 2017 - Aug. 2017
 :   **Senior Engineer**
-:	Samsung Electronics
-<br>
+:	Samsung Electronics<br>
+
 March 2012 - Feb. 2017
 :   **Ph.D.**; [EE, Yonsei Universiy](http://ee.yonsei.ac.kr) (Supervised by [Prof. S. Lee](http://insight.yonsei.ac.kr))
-:	*Thesis title: Deep visual discomfort predictor for stereoscopic 3D images*
-<br>
+:	*Thesis title: Deep visual discomfort predictor for stereoscopic 3D images*<br>
+
 March 2010 - Feb. 2012
-:   **M.S.**; [EE, Yonsei Universiy](http://ee.yonsei.ac.kr) (Supervised by [Prof. S. Lee](http://insight.yonsei.ac.kr))
-<br>
+:   **M.S.**; [EE, Yonsei Universiy](http://ee.yonsei.ac.kr) (Supervised by [Prof. S. Lee](http://insight.yonsei.ac.kr))<br>
+
 March 2003 - Feb. 2010
 :   **B.S.**
 :	[EE, Yonsei Universiy](http://ee.yonsei.ac.kr)
