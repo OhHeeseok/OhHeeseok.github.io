@@ -1,12 +1,8 @@
 ---
 layout: page
-title: Intro
+title: Heeseok Oh
 ---
 
-***
-
-Heeseok Oh
-============
 Ph.D. in Electrical and Electronic Engineering<br>
 Senior Researcher @[ETRI](http://etri.re.kr)<br>
 <img src="http://ohheeseok.github.io/assets/img/DSC01682_h.jpg" alt="Drawing" style="
