@@ -56,9 +56,7 @@ Affiliation
 IEEE Transactions on Image Processing<br>
 <details>
 <summary>[abs]</summary>
-```
 abstract here
-```
 </details>
 
 <table class="pub_table">
