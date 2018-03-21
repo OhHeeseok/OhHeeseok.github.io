@@ -7,7 +7,7 @@ title: Intro
 
 Heeseok Oh
 ============
-<img src="assets/img/DSC01682_h.jpg" alt="Drawing" style="
+<img src="http://ohheeseok.github.io/assets/img/DSC01682_h.jpg" alt="Drawing" style="
       height: 240px;
       border: 5px solid #ccc;
       border-radius: 10px;
@@ -26,22 +26,22 @@ Senior Researcher @[ETRI](http://etri.re.kr)<br>
 Affiliation
 ---------
 
-- Sept. 2017 - Present
+Sept. 2017 - Present
 :   **Senior Researcher** 
 :	[ETRI (Electronics & communications Research Institute)](http://etri.re.kr)
-<br><br>
-- March 2017 - Aug. 2017
+<br>
+March 2017 - Aug. 2017
 :   **Senior Engineer**
 :	Samsung Electronics
-<br><br>
-- March 2012 - Feb. 2017
+<br>
+March 2012 - Feb. 2017
 :   **Ph.D.**; [EE, Yonsei Universiy](http://ee.yonsei.ac.kr) (Supervised by [Prof. S. Lee](http://insight.yonsei.ac.kr))
 :	*Thesis title: Deep visual discomfort predictor for stereoscopic 3D images*
-<br><br>
-- March 2010 - Feb. 2012
+<br>
+March 2010 - Feb. 2012
 :   **M.S.**; [EE, Yonsei Universiy](http://ee.yonsei.ac.kr) (Supervised by [Prof. S. Lee](http://insight.yonsei.ac.kr))
-<br><br>
-- March 2003 - Feb. 2010
+<br>
+March 2003 - Feb. 2010
 :   **B.S.**
 :	[EE, Yonsei Universiy](http://ee.yonsei.ac.kr)
 
