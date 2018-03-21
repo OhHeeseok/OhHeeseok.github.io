@@ -22,6 +22,14 @@ Senior Researcher @[ETRI](http://etri.re.kr)<br>
 > [**Curriculum Vitae**](http://ohheeseok.github.io/menu/heeseokoh-cv.pdf)
 
 ***
+## Research Interests
+- QoE of visual contents
+- Image/video quality enhancement
+- Deep generative model
+- Vision science
+- Human factors on VR/AR/MR
+
+***
 
 Affiliation
 ---------
@@ -36,16 +44,6 @@ Affiliation
 :   **Ph.D. candidate** (Supervised by [Prof. Sanghoon Lee](http://insight.yonsei.ac.kr))
 :	[EE, Yonsei Universiy](http://ee.yonsei.ac.kr)
 :	*Thesis: Deep visual discomfort predictor for stereoscopic 3D images*
-
-
-***
-## Research Interests
-- QoE of visual contents
-- Image/video quality enhancement
-- Deep generative model
-- Vision science
-- Human factors on VR/AR/MR
-
 
 ***
 
