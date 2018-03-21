@@ -20,14 +20,14 @@ Senior Researcher @[ETRI](http://etri.re.kr)<br>
 > Tel.: +82-42-860-5501<br>
 > Email: <ohhs@etri.re.kr><br>
 > [**Curriculum Vitae**](http://ohheeseok.github.io/menu/heeseokoh-cv.pdf)
-	  
+
 ***
 
 Affiliation
 ---------
 
 - Sept. 2017 - Present
-:   **Senior Researcher** 
+:   **Senior Researcher**
 :	[ETRI (Electronics & communications Research Institute)](http://etri.re.kr)
 
 - March 2017 - Aug. 2017
@@ -51,8 +51,24 @@ Affiliation
 
 ## Publications
 
-- **Deep visual discomfort predictor for stereoscopic 3D images**<br>
-**Heeseok Oh**, Sewoong Ahn, Sanghoon Lee, and Alan C. Bovik<br>
-*IEEE Transactions on Image Processing*<br><details><summary>[abs]</summary>abstract here</details>
-
+- **Blind deep S3D image quality evaluation via local to global feature aggregation**
+**Heeseok Oh**, Sewoong Ahn, Jongyoo Kim and Sanghoon Lee
+*IEEE Transactions on Image Processing*<details><summary>abs</summary>abstract here</details>
+<br>
+- **Enhancement of visual comfort and sense of presence on stereoscopic 3D images**
+**Heeseok Oh**, Jongyoo Kim, Jinwoo Kim, Taewan Kim, Sanghoon Lee and Alan C. Bovik
+*IEEE Transactions on Image Processing*<details><summary>abs</summary>abstract here</details>
+<br>
+- **Visual presence: viewing geometry visual information of UHD S3D entertainment**
+**Heeseok Oh** and Sanghoon Lee
+*IEEE Transactions on Image Processing*<details><summary>abs</summary>abstract here</details>
+<br>
+- **Stereoscopic 3D visual discomfort prediction: a dynamic accommodation and vergence interaction model**
+**Heeseok Oh**, Sanghoon Lee and Alan C. Bovik
+*IEEE Transactions on Image Processing*<details><summary>abs</summary>abstract here</details>
+<br>
+- **Cooperative content and radio resource allocation for visual information maximization in a digital signage scenario**
+**Heeseok Oh**, Hojae Lee, Inwoong Lee and Sanghoon Lee
+*Digital Signal Processing*<details><summary>abs</summary>abstract here</details>
+<br>
 ***
