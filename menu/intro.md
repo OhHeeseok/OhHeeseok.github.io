@@ -51,14 +51,18 @@ Affiliation
 
 ## Publications
 
-- **Blind deep S3D image quality evaluation via local to global feature aggregation**
-**Heeseok Oh**, Sewoong Ahn, Jongyoo Kim and Sanghoon Lee
-*IEEE Transactions on Image Processing*<details><summary>abs</summary>abstract here</details>
+- **Blind deep S3D image quality evaluation via local to global feature aggregation**<br>
+**Heeseok Oh**, Sewoong Ahn, Jongyoo Kim and Sanghoon Lee<br>
+*IEEE Transactions on Image Processing*<br>
+  <details><summary>abs</summary>abstract here</details>
 <br>
-- **Enhancement of visual comfort and sense of presence on stereoscopic 3D images**
-**Heeseok Oh**, Jongyoo Kim, Jinwoo Kim, Taewan Kim, Sanghoon Lee and Alan C. Bovik
-*IEEE Transactions on Image Processing*<details><summary>abs</summary>abstract here</details>
+
+- **Enhancement of visual comfort and sense of presence on stereoscopic 3D images**<br>
+**Heeseok Oh**, Jongyoo Kim, Jinwoo Kim, Taewan Kim, Sanghoon Lee and Alan C. Bovik<br>
+*IEEE Transactions on Image Processing*<br>
+  <details><summary>abs</summary>abstract here</details>
 <br>
+
 - **Visual presence: viewing geometry visual information of UHD S3D entertainment**
 **Heeseok Oh** and Sanghoon Lee
 *IEEE Transactions on Image Processing*<details><summary>abs</summary>abstract here</details>
