@@ -28,7 +28,7 @@ Affiliation
 
 Sept. 2017 - Present
 :   **Senior Researcher** 
-:	[ETRI (Electronics & communications Research Institute)](http://etri.re.kr)<br>
+:	[ETRI (Electronics & communications Research Institute)](http://etri.re.kr)
 
 
 March 2017 - Aug. 2017
@@ -37,12 +37,14 @@ March 2017 - Aug. 2017
 
 
 March 2012 - Feb. 2017
-:   **Ph.D.**; [EE, Yonsei Universiy](http://ee.yonsei.ac.kr) (Supervised by [Prof. S. Lee](http://insight.yonsei.ac.kr))
-:	*Thesis title: Deep visual discomfort predictor for stereoscopic 3D images*<br>
+:   **Ph.D.** (Supervised by [Prof. S. Lee](http://insight.yonsei.ac.kr))
+:	[EE, Yonsei Universiy](http://ee.yonsei.ac.kr)
+:	*Thesis title: Deep visual discomfort predictor for stereoscopic 3D images*
 
 
 March 2010 - Feb. 2012
-:   **M.S.**; [EE, Yonsei Universiy](http://ee.yonsei.ac.kr) (Supervised by [Prof. S. Lee](http://insight.yonsei.ac.kr))<br>
+:   **M.S.** (Supervised by [Prof. S. Lee](http://insight.yonsei.ac.kr))
+:	[EE, Yonsei Universiy](http://ee.yonsei.ac.kr)
 
 
 March 2003 - Feb. 2010
@@ -56,7 +58,6 @@ March 2003 - Feb. 2010
 <table class="pub_table">
 
 <tr>
-<!--<th><img src="images/publications/kim_deep_2017.png"/></th>-->
 <td>
     <span class="blue_2"><strong>Deep convolutional neural models for picture quality prediction</strong></span><br>
     <strong>Jongyoo Kim</strong>, H. Zeng, D. Ghadiyaram, S. Lee, L. Zhang and A. C. Bovik<br>
@@ -65,7 +66,7 @@ March 2003 - Feb. 2010
     onclick='toggle("abs_kim_deep_spm_2017")'>abs</a>]<br>
 
 <div id="abs_kim_deep_spm_2017" style="text-align: justify; display: none" markdown="1">
-...
+asdfgasd
 </div>
 
 </td>
@@ -73,3 +74,5 @@ March 2003 - Feb. 2010
 
 
 </table>
+
+***
