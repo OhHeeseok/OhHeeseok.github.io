@@ -6,93 +6,80 @@ title: Intro
 Heeseok Oh
 ============
 
+***
+
 Affiliation
 ---------
 
 Sept. 2017 - Present
-:   **Senior Researcher**; ETRI (Electronics & communications Research Institute)
+:   **Senior Researcher** 
+:	ETRI (Electronics & communications Research Institute)
 
 March 2017 - Aug. 2017
-:   **Senior Engineer**; Samsung Electronics DMC Center
+:   **Senior Engineer**
+:	Samsung Electronics
 
 March 2012 - Feb. 2017
-:   **Ph.D.**; Yonsei Universiy, EE (Supervised by Prof. Sanghoon Lee)
-
-    *Thesis title: Deep visual discomfort predictor for stereoscopic 3D images*
+:   **Ph.D.**; EE, Yonsei Universiy
+:	Supervised by Prof. Sanghoon Lee
+:	*Thesis title: Deep visual discomfort predictor for stereoscopic 3D images*
 
 March 2010 - Feb. 2012
-:   **M.S.**; Yonsei Universiy, EE (Supervised by Prof. Sanghoon Lee)
+:   **M.S.**; EE, Yonsei Universiy
+:	Supervised by Prof. Sanghoon Lee
 
 March 2003 - Feb. 2010
-:   **B.S.**; Yonsei Universiy, EE
+:   **B.S.**
+:	EE, Yonsei Universiy
+
+***
+
+<table class="cv">
+  <tr>
+    <td>
+      <span class="blue_2"><font size="5"><strong>Heeseok Oh</strong></font></span><br>
+      Ph.D. Candidate<br>
+      <a href="http://insight.yonsei.ac.kr">Multidimensional Insight Lab.</a><br>
+      <a href="http://ee.yonsei.ac.kr/">Dept. of Electrical and Electronic Engineering</a><br>
+      <a href="http://yonsei.ac.kr/">Yonsei University</a><br>
+      Tel.: +82-2-2123-7734<br>
+      Email: jongky@yonsei.ac.kr<br>
+      <a href="https://github.com/jongyookim/">[GitHub]</a><br>
+      <a href="http://jongyookim.github.io/data/cv_jongyookim_paper.pdf"><strong>[Curriculum Vitae]</strong></a><br>
+    </td>
+    <td>
+      <img src="assests/img/DSC01682_h.jpag" alt="Drawing" style="
+      height: 240px;
+      border: 5px solid #ccc;
+      border-radius: 10px;
+      -moz-border-radius: 10px;
+      -khtml-border-radius: 10px;
+      -webkit-border-radius: 10px;
+      "/>
+    </td>
+  </tr>
+</table>
 
 
-Experience
-----------
+## Publications
 
-**Your Most Recent Work Experience:**
+<table class="pub_table">
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+<tr>
+<!--<th><img src="images/publications/kim_deep_2017.png"/></th>-->
+<td>
+    <span class="blue_2"><strong>Deep convolutional neural models for picture quality prediction</strong></span><br>
+    <strong>Jongyoo Kim</strong>, H. Zeng, D. Ghadiyaram, S. Lee, L. Zhang and A. C. Bovik<br>
+    IEEE Signal Processing Magazine<br>
+[<a href='javascript: none'
+    onclick='toggle("abs_kim_deep_spm_2017")'>abs</a>]<br>
 
-* First item
+<div id="abs_kim_deep_spm_2017" style="text-align: justify; display: none" markdown="1">
+...
+</div>
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+</td>
+</tr>
 
-**That Other Job You Had**
 
-Also with a short description.
-
-Technical Experience
---------------------
-
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+</table>
