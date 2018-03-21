@@ -30,49 +30,26 @@ Sept. 2017 - Present
 :   **Senior Researcher** 
 :	[ETRI (Electronics & communications Research Institute)](http://etri.re.kr)<br>
 
+
 March 2017 - Aug. 2017
 :   **Senior Engineer**
 :	Samsung Electronics<br>
+
 
 March 2012 - Feb. 2017
 :   **Ph.D.**; [EE, Yonsei Universiy](http://ee.yonsei.ac.kr) (Supervised by [Prof. S. Lee](http://insight.yonsei.ac.kr))
 :	*Thesis title: Deep visual discomfort predictor for stereoscopic 3D images*<br>
 
+
 March 2010 - Feb. 2012
 :   **M.S.**; [EE, Yonsei Universiy](http://ee.yonsei.ac.kr) (Supervised by [Prof. S. Lee](http://insight.yonsei.ac.kr))<br>
+
 
 March 2003 - Feb. 2010
 :   **B.S.**
 :	[EE, Yonsei Universiy](http://ee.yonsei.ac.kr)
 
 ***
-
-<table class="cv">
-  <tr>
-    <td>
-      <span class="blue_2"><font size="5"><strong>Heeseok Oh</strong></font></span><br>
-      Ph.D. Candidate<br>
-      <a href="http://insight.yonsei.ac.kr">Multidimensional Insight Lab.</a><br>
-      <a href="http://ee.yonsei.ac.kr/">Dept. of Electrical and Electronic Engineering</a><br>
-      <a href="http://yonsei.ac.kr/">Yonsei University</a><br>
-      Tel.: +82-2-2123-7734<br>
-      Email: jongky@yonsei.ac.kr<br>
-      <a href="https://github.com/jongyookim/">[GitHub]</a><br>
-      <a href="http://jongyookim.github.io/data/cv_jongyookim_paper.pdf"><strong>[Curriculum Vitae]</strong></a><br>
-    </td>
-    <td>
-      <img src="assets/img/DSC01682_h.jpg" alt="Drawing" style="
-      height: 240px;
-      border: 5px solid #ccc;
-      border-radius: 10px;
-      -moz-border-radius: 10px;
-      -khtml-border-radius: 10px;
-      -webkit-border-radius: 10px;
-      "/>
-    </td>
-  </tr>
-</table>
-
 
 ## Publications
 
