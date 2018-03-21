@@ -5,6 +5,11 @@ title: Intro
 
 Heeseok Oh
 ============
+Ph.D. in Electrical and Electronic Engineering
+Senior Researcher @[ETRI](http://etri.re.kr)
+Tel.: +82-42-860-5501
+Mob.: +80-10-5264-1928
+Email: <ohhs@etri.re.kr>
 
 ***
 
@@ -48,7 +53,7 @@ March 2003 - Feb. 2010
       <a href="http://jongyookim.github.io/data/cv_jongyookim_paper.pdf"><strong>[Curriculum Vitae]</strong></a><br>
     </td>
     <td>
-      <img src="assests/img/DSC01682_h.jpag" alt="Drawing" style="
+      <img src="assets/img/DSC01682_h.jpag" alt="Drawing" style="
       height: 240px;
       border: 5px solid #ccc;
       border-radius: 10px;
