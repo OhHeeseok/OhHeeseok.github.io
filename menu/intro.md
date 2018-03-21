@@ -53,6 +53,7 @@ Affiliation
 
 - **Deep visual discomfort predictor for stereoscopic 3D images**<br>
 **Heeseok Oh**, Sewoong Ahn, Sanghoon Lee, and Alan C. Bovik<br>
-*IEEE Transactions on Image Processing*<details><summary>abs</summary>abstract here</details>
+*IEEE Transactions on Image Processing*
+<details><summary>[abs]</summary>abstract here</details>
 
 ***
