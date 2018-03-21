@@ -15,8 +15,8 @@ Heeseok Oh
       -khtml-border-radius: 10px;
       -webkit-border-radius: 10px;
       "/><br>
-Ph.D. in Electrical and Electronic Engineering<br>
-Senior Researcher @[ETRI](http://etri.re.kr)<br>
+- Ph.D. in Electrical and Electronic Engineering<br>
+- Senior Researcher @[ETRI](http://etri.re.kr)<br>
 > Tel.: +82-42-860-5501<br>
 > Email: <ohhs@etri.re.kr><br>
 > [**Curriculum Vitae**](http://ohheeseok.github.io/menu/heeseokoh-cv.pdf)
@@ -26,34 +26,40 @@ Senior Researcher @[ETRI](http://etri.re.kr)<br>
 Affiliation
 ---------
 
-Sept. 2017 - Present
+- Sept. 2017 - Present
 :   **Senior Researcher** 
 :	[ETRI (Electronics & communications Research Institute)](http://etri.re.kr)
 
-
-March 2017 - Aug. 2017
+- March 2017 - Aug. 2017
 :   **Senior Engineer**
 :	Samsung Electronics<br>
 
-
-March 2012 - Feb. 2017
+- March 2012 - Feb. 2017
 :   **Ph.D.** (Supervised by [Prof. S. Lee](http://insight.yonsei.ac.kr))
 :	[EE, Yonsei Universiy](http://ee.yonsei.ac.kr)
-:	*Thesis title: Deep visual discomfort predictor for stereoscopic 3D images*
+:	*Thesis: Deep visual discomfort predictor for stereoscopic 3D images*
 
-
-March 2010 - Feb. 2012
+- March 2010 - Feb. 2012
 :   **M.S.** (Supervised by [Prof. S. Lee](http://insight.yonsei.ac.kr))
 :	[EE, Yonsei Universiy](http://ee.yonsei.ac.kr)
 
-
-March 2003 - Feb. 2010
+- March 2003 - Feb. 2010
 :   **B.S.**
 :	[EE, Yonsei Universiy](http://ee.yonsei.ac.kr)
 
 ***
 
 ## Publications
+
+- **Deep visual discomfort predictor for stereoscopic 3D images**
+:**Heeseok Oh**, Sewoong Ahn, Sanghoon Lee, and Alan C. Bovik
+:IEEE Transactions on Image Processing
+:<details>
+<summary>[abs]</summary>
+'''
+abstract here
+'''
+</details>
 
 <table class="pub_table">
 
