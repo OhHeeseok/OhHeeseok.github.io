@@ -55,24 +55,25 @@ Affiliation
 **Heeseok Oh**, Sewoong Ahn, Jongyoo Kim and Sanghoon Lee<br>
 *IEEE Transactions on Image Processing*<br>
   <details><summary>abs</summary>abstract here</details>
-<br>
 
 - **Enhancement of visual comfort and sense of presence on stereoscopic 3D images**<br>
 **Heeseok Oh**, Jongyoo Kim, Jinwoo Kim, Taewan Kim, Sanghoon Lee and Alan C. Bovik<br>
 *IEEE Transactions on Image Processing*<br>
   <details><summary>abs</summary>abstract here</details>
-<br>
 
-- **Visual presence: viewing geometry visual information of UHD S3D entertainment**
-**Heeseok Oh** and Sanghoon Lee
-*IEEE Transactions on Image Processing*<details><summary>abs</summary>abstract here</details>
-<br>
-- **Stereoscopic 3D visual discomfort prediction: a dynamic accommodation and vergence interaction model**
-**Heeseok Oh**, Sanghoon Lee and Alan C. Bovik
-*IEEE Transactions on Image Processing*<details><summary>abs</summary>abstract here</details>
-<br>
-- **Cooperative content and radio resource allocation for visual information maximization in a digital signage scenario**
-**Heeseok Oh**, Hojae Lee, Inwoong Lee and Sanghoon Lee
-*Digital Signal Processing*<details><summary>abs</summary>abstract here</details>
-<br>
+- **Visual presence: viewing geometry visual information of UHD S3D entertainment**<br>
+**Heeseok Oh** and Sanghoon Lee<br>
+*IEEE Transactions on Image Processing*<br>
+  <details><summary>abs</summary>abstract here</details>
+
+- **Stereoscopic 3D visual discomfort prediction: a dynamic accommodation and vergence interaction model**<br>
+**Heeseok Oh**, Sanghoon Lee and Alan C. Bovik<br>
+*IEEE Transactions on Image Processing*<br>
+  <details><summary>abs</summary>abstract here</details>
+
+- **Cooperative content and radio resource allocation for visual information maximization in a digital signage scenario**<br>
+**Heeseok Oh**, Hojae Lee, Inwoong Lee and Sanghoon Lee<br>
+*Digital Signal Processing*<br>
+  <details><summary>abs</summary>abstract here</details>
+
 ***
