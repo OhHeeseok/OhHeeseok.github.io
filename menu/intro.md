@@ -7,6 +7,8 @@ title: Intro
 
 Heeseok Oh
 ============
+- Ph.D. in Electrical and Electronic Engineering<br>
+- Senior Researcher @[ETRI](http://etri.re.kr)<br>
 <img src="http://ohheeseok.github.io/assets/img/DSC01682_h.jpg" alt="Drawing" style="
       height: 240px;
       border: 5px solid #ccc;
@@ -15,8 +17,6 @@ Heeseok Oh
       -khtml-border-radius: 10px;
       -webkit-border-radius: 10px;
       "/><br>
-- Ph.D. in Electrical and Electronic Engineering<br>
-- Senior Researcher @[ETRI](http://etri.re.kr)<br>
 > Tel.: +82-42-860-5501<br>
 > Email: <ohhs@etri.re.kr><br>
 > [**Curriculum Vitae**](http://ohheeseok.github.io/menu/heeseokoh-cv.pdf)
@@ -53,11 +53,8 @@ Affiliation
 
 - **Deep visual discomfort predictor for stereoscopic 3D images**<br>
 **Heeseok Oh**, Sewoong Ahn, Sanghoon Lee, and Alan C. Bovik<br>
-IEEE Transactions on Image Processing<br>
-<details>
-<summary>[abs]</summary>
-abstract here
-</details>
+*IEEE Transactions on Image Processing*
+<details><summary>[abs]</summary>abstract here</details>
 
 <table class="pub_table">
 
