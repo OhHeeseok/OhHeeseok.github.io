@@ -5,11 +5,11 @@ title: Intro
 
 Heeseok Oh
 ============
-Ph.D. in Electrical and Electronic Engineering
-Senior Researcher @[ETRI](http://etri.re.kr)
-Tel.: +82-42-860-5501
-Mob.: +80-10-5264-1928
-Email: <ohhs@etri.re.kr>
+Ph.D. in Electrical and Electronic Engineering<br>
+Senior Researcher @[ETRI](http://etri.re.kr)<br>
+Tel.: +82-42-860-5501<br>
+Mobile: +80-10-5264-1928<br>
+Email: <ohhs@etri.re.kr><br>
 
 ***
 
