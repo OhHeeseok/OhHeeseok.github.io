@@ -5,7 +5,7 @@ title: Heeseok Oh
 
 Ph.D. in Electrical and Electronic Engineering<br>
 Senior Researcher @[ETRI](http://etri.re.kr)<br>
-<img src="http://ohheeseok.github.io/assets/img/DSC01682_h.jpg" alt="Drawing" style="
+<img src="http://ohheeseok.github.io/assets/img/DSC01682_h_1024x682.jpg" alt="Drawing" style="
       width: 1024px;
       border: 5px solid #ccc;
       border-radius: 10px;
