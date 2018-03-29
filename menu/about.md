@@ -32,7 +32,7 @@ Affiliation
 
 - Sept. 2017 - Present
 :   **Senior Researcher**
-:	[ETRI (Electronics & communications Research Institute)](http://etri.re.kr)
+:	[ETRI (Electronics & Telecommunications Research Institute)](http://etri.re.kr)
 - March 2017 - Aug. 2017
 :   **Senior Engineer**
 :	Samsung Electronics
